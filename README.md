@@ -5,6 +5,7 @@ bl_ms_data_analysis.py
 full-list-digitised-mss-jan-2022.csv
 bl_manuscript_search_instructions.docx
 out.csv (example of search)
+test
 
 you will need python3 and pandas installed
 download the excel file from https://blogs.bl.uk/digitisedmanuscripts/ and save as a cvs file
